@@ -1,0 +1,25 @@
+.card-container{
+    margin: 16px;
+    max-width: 60%;
+    padding-bottom: 30px;
+}
+
+mat-card{
+    padding: 10px;
+}
+
+.example-header-image{
+    background-image:url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fbuffer.com%2Flibrary%2Ffree-images%2F&psig=AOvVaw1uMyg-U3MWYGUJMqg7n_vG&ust=1720614470537000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCju8T6mYcDFQAAAAAdAAAAABAE') ;
+    background-size: cover;
+}
+
+mat-card-footer{
+    margin-left: 20px;
+}
+
+.post-img{
+    width:300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 15px;
+}
